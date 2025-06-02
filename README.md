@@ -70,5 +70,5 @@ Visita mi [portafolio personal](https://miguelmiranda.dev) para ver ejemplos det
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=migueelmirandaa&color=green" alt="Profile views" />
-  <p>⭐️ De <a href="https://github.com/migueelmirandaa">Miguel</a></p>
+  <p>⭐️ De <a href="https://github.com/migueelmirandaa">Mxrtinn</a></p>
 </div>
